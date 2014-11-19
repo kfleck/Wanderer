@@ -44,3 +44,4 @@ void keyPressed(){
   ax=random(-.1,.1);
   ay=random(-.1,.1);
 }
+//changed
